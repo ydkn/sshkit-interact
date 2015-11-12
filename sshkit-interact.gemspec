@@ -9,9 +9,9 @@ Gem::Specification.new do |spec|
   spec.authors       = ['Florian Schwab']
   spec.email         = ['me@ydkn.de']
 
-  spec.summary       = %q{TODO: Write a short summary, because Rubygems requires one.}
-  spec.description   = %q{TODO: Write a longer description or delete this line.}
-  spec.homepage      = 'TODO: Put your gems website or public repo URL here.'
+  spec.summary       = %q{Interactive command execution for SSHKit}
+  spec.description   = %q{Interactive command execution for SSHKit}
+  spec.homepage      = 'https://github.com/ydkn/sshkit-interact'
   spec.license       = 'MIT'
 
   spec.files         = `git ls-files -z`.split("\x0").reject { |f| f.match(%r{^(test|spec|features)/}) }
