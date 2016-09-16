@@ -1,3 +1,6 @@
+# No longer maintained in favor of [sshkit-interactive](https://github.com/afeld/sshkit-interactive)
+
+
 [![Gem Version](https://img.shields.io/gem/v/sshkit-interact.svg)](https://rubygems.org/gems/sshkit-interact)
 [![Dependencies](https://img.shields.io/gemnasium/ydkn/sshkit-interact.svg)](https://gemnasium.com/ydkn/sshkit-interact)
 [![Code Climate](https://img.shields.io/codeclimate/github/ydkn/sshkit-interact.svg)](https://codeclimate.com/github/ydkn/sshkit-interact)
